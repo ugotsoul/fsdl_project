@@ -1,7 +1,7 @@
 ## Ideas
 Two topics I am interested replicating from wandb benchmarks:
 
-superresolution: https://wandb.ai/wandb/superres/benchmark
+super resolution: https://wandb.ai/wandb/superres/benchmark
 
 poverty mapping with satellite data: https://wandb.ai/thinkingmachines/ph-poverty-mapping/benchmark
 
