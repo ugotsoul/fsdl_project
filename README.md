@@ -8,13 +8,24 @@ Two topics I am interested replicating from wandb benchmarks:
 Other topics I'm interested in:
 
 - Building and deploying a GAN similar to using my own drawings or other open sourced art I've gathered as a dataset
-  - Ideas for datasets: protest signs, propaganda posters, gritty (eg., japanese product or sports mascots?), african masks,  graffiti alphabet generator
+  - Ideas for datasets: protest signs, propaganda posters, gritty (eg., japanese product or sports mascots?), african masks  
 
 - Object detection: 
   - Curb cuts for accessiblity or piles of trash from satellite imagery 
   - Using a webcam video source: poor posture, face touching, or cleanched jaw.
+  - Using a webcam: hornet activity (or bird activity?) in backyard
 
-Alternative projects:
+- Handwriting recognition / OCR
+  - Graffiti text
+  - Husband's writing
+
+- Super resolution 
+  - Old cartoons
+  - Vintage clothing
+  - Drawings
+
+
+Alternate projects:
 
 - Contribute to fastai library
 - Contribute to stylegan / stylegan-ada fork
@@ -23,6 +34,7 @@ Tooling:
 - Mlflow
 - Docker
 - AWS/GCP
+- Streamlit
 
 
 ## Proposal
